@@ -185,6 +185,10 @@ session_start();
     <script src="dist/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
+    <br><br><br>
+    <footer>
+      <center> COPYRIGHT BY @ EKO SETIAWAN STERIDA2023 |NO.ABSEN 13</center>
+    </footer>
   </body>
 </html>
 
