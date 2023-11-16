@@ -187,7 +187,7 @@ session_start();
     <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
     <br><br><br>
     <footer>
-      <center> COPYRIGHT BY @ EKO SETIAWAN STERIDA2023 |NO.ABSEN 13</center>
+      <center> COPYRIGHT BY @ EKO SETIAWAN STERIDA 2023 | NO.ABSEN 13</center>
     </footer>
   </body>
 </html>
